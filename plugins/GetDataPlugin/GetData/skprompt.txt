@@ -1,0 +1,5 @@
+Generate a SQL query for a SQL Server database to retrieve data. 
+
+Take into consideration that the schema is the following: {{$schema}}
+
+The query should return the required data to satisfy the request of the user: {{$user_request}}
