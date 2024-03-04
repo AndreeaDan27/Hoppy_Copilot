@@ -1,10 +1,7 @@
 pyodbc
-fastapi
-uvicorn[standard]
 pydantic
 azure-identity
-sqlalchemy
 python-dotenv
-pandas
-
+panda
 semantic-kernel
+requests
